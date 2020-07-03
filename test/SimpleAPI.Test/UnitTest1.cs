@@ -17,7 +17,13 @@ namespace SimpleAPI.Test
         }
 
         [Fact]
-        public void Test1()
+        public void Test2()
+        {
+
+        }
+
+        [Fact]
+        public void Test3()
         {
 
         }
