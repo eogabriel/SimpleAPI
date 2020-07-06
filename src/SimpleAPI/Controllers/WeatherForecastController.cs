@@ -11,7 +11,7 @@ namespace SimpleAPI.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "GitHub-Freezing", "GitHub-Bracing", "GitHub-Chilly", "GitHub-Cool", "GitHub-Mild", "GitHub-Warm", "GitHub-Balmy", "GitHub-Hot", "GitHub-Sweltering", "GitHub-Scorching"
         };
 
         [HttpGet]
