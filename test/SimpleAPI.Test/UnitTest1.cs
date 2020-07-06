@@ -19,7 +19,7 @@ namespace SimpleAPI.Test
         [Fact]
         public void Test2()
         {
-            //test
+            
         }
 
         [Fact]
